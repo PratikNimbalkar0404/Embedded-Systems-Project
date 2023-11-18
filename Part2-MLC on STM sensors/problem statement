@@ -1,0 +1,1 @@
+Todo: Reproduce Yoga pose estimation with Sensortilebox, STBLE app and Unico, as Unico works on Linux laptops. You can use Unicleo/AlgoBuilder if you have windows machine. You can collect and label you own training data for fun, or use the datalogs given. But you must load these logs in Unico, train the decision tree and deploy the UCF back on SensorTile.box to run.
