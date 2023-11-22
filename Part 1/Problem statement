@@ -1,0 +1,5 @@
+Project Part 1 Goal: Detect car horns on Sensortile M4 micro-controller at high accuracy and low latency (not missing audio)
+Tutorials and resources: Audio event detection on Sensortile Cortex M4
+(a) Train a model including the class car_horn model training
+(b) Evaluate quantized model accuracy on laptop model quantization and evaluation
+(c) Evaluate deployed model latency on Sensortile M4 model deployment
